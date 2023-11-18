@@ -7,7 +7,7 @@ This repository contains a web application built with React that enables users t
 Video link: https://youtu.be/N0VLwg1CR4E <br>
 # Table of Contents <br>
 <h3>Introduction</h3>
-<h3>Installation</h3>
+<h3>Installations</h3>
 
 <h2>Introduction</h2>
 The solution utilises the ML [model](https://huggingface.co/spaces/DzmitryXXL/CV_Parser/) from hugging faces. We have used: React, Flask, Openai API, Langchain
